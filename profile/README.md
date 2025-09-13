@@ -1,4 +1,4 @@
-# Kotool.dev
+# Ktool.dev
 
 ## Kotlin Tools for Developers
 
