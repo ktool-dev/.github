@@ -6,11 +6,17 @@ We create high-quality, developer-focused tools and libraries that make Kotlin d
 
 ## 🛠️ Our Projects
 
-### 🧪 Kotest BddSpec
-A comprehensive testing framework extension that brings Behavior-Driven Development (BDD) capabilities to Kotlin projects using Kotest's expressive syntax.
+### 🌐 KTML
+Fast component-based HTML template engine for Kotlin on the JVM or with KMP. A modern, type-safe solution for generating clean, maintainable HTML with the full power of Kotlin's type system.
 
-### 🌐 Ktml
-A modern, type-safe HTML template engine built specifically for Kotlin. Generate clean, maintainable HTML with the full power of Kotlin's type system.
+### 📦 KtEmbed
+Tool for embedding static resources into a Kotlin application (JVM and Kotlin Native), making resource management seamless and efficient.
+
+### 🧪 Kotest BDD
+BDD Spec class for Kotest - simplified Behavior-Driven Development testing.
+
+### 🏗️ Kotlin-Gen
+Kotlin Code Generation Library - library for writing Kotlin code that generates Kotlin code files.
 
 ## 🎯 Our Mission
 
