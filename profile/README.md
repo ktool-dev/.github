@@ -11,7 +11,7 @@ Fast component-based HTML template engine for Kotlin on the JVM or with KMP. A m
 
 ### 💾 Z85
 A pure Kotlin implementation of the Z85 encoding that's compatible with all KMP targets. Z85 is a text encoding for binary data (like Base64), but is more
-efficient than Base 64. While Base 64 add 33% size to data, Z85 only adds 25%.
+efficient than Base64. While Base64 add 33% size to data, Z85 only adds 25%.
 
 ### 📦 KtEmbed
 Tool for embedding static resources into a Kotlin application (JVM and Kotlin Native), making resource management seamless and efficient.
